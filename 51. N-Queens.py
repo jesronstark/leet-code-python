@@ -24,3 +24,4 @@ class Solution:
         diag2 = set()
         backtrack(0)
         return solutions
+
