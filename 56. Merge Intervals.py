@@ -1,4 +1,4 @@
-class Solution(object):
+eclass Solution(object):
     def merge(self, intervals):
         """
         :type intervals: List[List[int]]
