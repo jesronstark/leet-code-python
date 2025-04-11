@@ -1,4 +1,4 @@
-ff
+eeeeeff
 
 class Solution:
     def solveNQueens(self, n):
