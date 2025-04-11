@@ -3,6 +3,7 @@ eeeeeff
 
 class Solution:
     def solveNQueens(self, n):
+        
         def backtrack(row):
             if row == n:
                 board = [''.join('Q' if i == col else '.' for i in range(n)) for col in queens]
