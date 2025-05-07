@@ -1,4 +1,4 @@
-class Solution(object):
+eclass Solution(object):
     def insert(self, intervals, newInterval):
         """
         :type intervals: List[List[int]]
