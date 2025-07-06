@@ -5,6 +5,9 @@ eeeeeff
 
 class Solution:
     def solveNQueens(self, n):
+
+
+
         
         def backtrack(row):
             if row == n:
