@@ -10,6 +10,8 @@
 
 
 
+
+
 class Solution:
     def totalNQueens(self, n):
         def backtrack(row):
