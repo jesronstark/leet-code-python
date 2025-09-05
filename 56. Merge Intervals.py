@@ -24,6 +24,7 @@
 
 
 
+
 eclass Solution(object):
     def merge(self, intervals):
         """
