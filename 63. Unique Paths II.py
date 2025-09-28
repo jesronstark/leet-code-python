@@ -1,6 +1,10 @@
 
 
 
+
+
+
+
 class Solution(object):
     def uniquePathsWithObstacles(self, obstacleGrid):
         """
