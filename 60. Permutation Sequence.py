@@ -7,6 +7,7 @@
 
 
 
+
 class Solution(object):
     def getPermutation(self, n, k):
         """
